@@ -1,3 +1,1 @@
-# Team Violet
-
-![](http://i.imgur.com/UcEplyW.jpg?1)
+# Pops: Gamifying Pomodoro and Productivity!
